@@ -41,6 +41,25 @@ The **Bangalore House Price Predictor** is a data-driven, full-stack web applica
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home-screen.png" alt="Home Page — Property Input Form & Interactive Map" width="90%"/>
+  <br/><em>Home Page — Property Input Form & Interactive Map</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/nearby-amenities.png" alt="Nearby Amenities Discovery" width="90%"/>
+  <br/><em>Nearby Amenities Discovery — Schools, Hospitals, Restaurants & Malls</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/compare-properties.png" alt="Property Comparison" width="90%"/>
+  <br/><em>Side-by-Side Property Comparison</em>
+</p>
+
+---
+
 ## ✨ Key Features
 
 | Feature | Description |
